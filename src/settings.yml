@@ -1,0 +1,12 @@
+#
+# ServerManager | Settings configuration
+# function: serverControl and chatControl
+#
+
+chatColor: "none"
+
+foodLevelChange: true
+weatherChange: true
+blockPhysics: true
+armSwingAnimation: true
+craftItems: true

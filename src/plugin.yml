@@ -1,0 +1,6 @@
+name: ServerManager
+version: 3.1
+author: Baumarkt/Labrix
+main: net.baumarkt.servermanager.ServerManager
+commands:
+  servermanager:

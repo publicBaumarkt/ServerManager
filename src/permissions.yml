@@ -1,0 +1,8 @@
+#
+# ServerManager | Settings configuration
+# function: permissionControl
+#
+
+#If you want to use the permission system, enter your username here
+playersWithAllServerManagerSettings:
+  - enterYourPlayerNameHere

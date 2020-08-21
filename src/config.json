@@ -1,0 +1,28 @@
+{
+  "prefix": "&aServer &8\u2503 &7",
+  "inventories.mainMenu": "&8\u00BB &aServer",
+  "inventories.mainMenu.nextPage": "&8\u00BB &aNext page",
+  "inventories.mainMenu.back": "&8\u00BB &cBack",
+  "permissions.all": "servermanager.*",
+  "permissions.command": "servermanager.command",
+  "permissions.click": "servermanager.click",
+  "permission.function.worldControl": "servermanager.worldControl",
+  "permission.function.serverControl": "servermanager.serverControl",
+  "permission.function.chatControl": "servermanager.chatControl",
+  "permission.function.playerControl": "servermanager.playerControl",
+  "permission.function.pluginControl": "servermanager.playerControl",
+  "permission.function.pluginInstaller": "servermanager.pluginInstaller",
+  "permission.function.permissionControl": "servermanager.permissionControl",
+  "permission.function.economy": "servermanager.economy",
+
+  "functions": {
+    "worldControl": true,
+    "serverControl": true,
+    "chatControl": true,
+    "playerControl": true,
+    "pluginControl": true,
+    "pluginInstaller": true,
+    "permissionControl": true,
+    "economy": false
+  }
+}
